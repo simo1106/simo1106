@@ -5,7 +5,7 @@ Hi, I'm Yu-Hao Kuo (郭宇豪) 👋
 曾運用 Edge Impulse FOMO 演算法開發輕量化物件偵測；同時擁有 Web 通訊（HTTP WebServer, TCP Socket, MQTT）與 Android App 開發能力。
 
 ## My Skills
-- **Languages:** HTML, CSS, JavaScript,
+- **Languages:** HTML, CSS, JavaScript, Java, C, python
 - **Frameworks:** Django, Spring boot 
 - **Tools:** Git, Webpack, SQL, SQLite
 
