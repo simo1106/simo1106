@@ -1,8 +1,8 @@
 Hi, I'm Yu-Hao Kuo (郭宇豪) 👋
 
 現為專注物聯網 (IoT) 與嵌入式系統 / 軟體工程師。
-擅長利用 ESP32 進行 FreeRTOS 多工管理，具備 MCU 暫存器控制、UART 鮑率配置。
-曾運用 Edge Impulse FOMO 演算法開發輕量化物件偵測；同時擁有 Web 通訊（HTTP WebServer, TCP Socket, MQTT）與 Android App 開發能力。
+擁有 Web 通訊（HTTP WebServer, TCP Socket, MQTT）與 Android App 開發能力。
+曾運用 Edge Impulse FOMO 演算法開發輕量化物件偵測；
 
 ## My Skills
 - **Languages:** HTML, CSS, JavaScript, Java, C, python
