@@ -7,7 +7,7 @@ Hi, I'm Yu-Hao Kuo (郭宇豪) 👋
 ## My Skills
 - **Languages:** HTML, CSS, JavaScript, Java, C, python
 - **Frameworks:** Django, Spring boot 
-- **Tools:** Git, Webpack, SQL, SQLite
+- **Tools:** Git, WebAPI, MYSQL, SQLite
 
 ## Badges
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
