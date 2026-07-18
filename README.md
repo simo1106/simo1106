@@ -1,8 +1,8 @@
 Hi, I'm Yu-Hao Kuo (郭宇豪) 👋
 
-專注物聯網 (IoT) 與嵌入式系統 / 軟體工程師。
+專注物聯網 (IoT)  軟體工程師。
 擁有 Web 通訊（HTTP WebServer, TCP Socket, MQTT）與 Android App 開發能力。
-曾運用 Edge Impulse FOMO 演算法開發輕量化物件偵測；
+曾運用 Edge Impulse FOMO 演算法開發輕量化物件偵測。
 
 ## My Skills
 - **Languages:** HTML, CSS, JavaScript, Java, C, python
